@@ -1,0 +1,24 @@
+{
+  "name": "string2emoji",
+  "authors": [
+    "Amin Shah Gilani <aminshahgilani@gmail.com>"
+  ],
+  "description": "A string to emoji translator",
+  "main": "app.js",
+  "moduleType": [],
+  "keywords": [
+    "emoji",
+    "string",
+    "convertor"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}

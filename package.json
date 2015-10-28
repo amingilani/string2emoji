@@ -1,0 +1,16 @@
+{
+  "name": "string2emoji",
+  "version": "1.0.0",
+  "description": "A string to emoji translator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "string",
+    "convertor"
+  ],
+  "author": "Amin Shah Gilani <aminshahgilani@gmail.com> (http://amin.gilani.me)",
+  "license": "GPL-3.0"
+}
