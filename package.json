@@ -12,5 +12,8 @@
     "convertor"
   ],
   "author": "Amin Shah Gilani <aminshahgilani@gmail.com> (http://amin.gilani.me)",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
 }
