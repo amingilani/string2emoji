@@ -6667,4 +6667,4 @@ module.exports = [{
     "trollface"
   ],
   "tags": []
-}]
+}];
