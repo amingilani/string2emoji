@@ -1,6 +1,6 @@
 {
   "name": "string2emoji",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A string to emoji translator",
   "main": "app.js",
   "scripts": {
